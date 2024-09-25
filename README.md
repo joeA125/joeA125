@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joeA125
 - 👀 I’m interested in sustainability, specificly carbon related (markets, sequestration, valuation)
-- 🌱 I’m currently learning PyTorch, but also emulating the already existing P-model for GPP prediction
+- 🌱 I’m currently learning PyTorch, and have recently finished my project on increasing accessibility to GPP estimation
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
