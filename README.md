@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeA125
-- 👀 I’m interested in sustainability, specificly carbon related (markets, sequestration, valuation)
+- 👀 I’m interested in predictive modelling in sustainability (carbon specifically), but also in the sports industry
 - 🌱 I’m currently learning PyTorch, and have recently finished my project on increasing accessibility to GPP estimation
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
